@@ -7,7 +7,11 @@
 | **Project Name** | MedCare — E-Commerce Medicine & Doctor Appointment Booking System |
 | **Version** | 1.0.0 |
 | **Date** | October 2026 |
-| **Author** | MedCare Development Team |
+| **Author** | Rajat Pundir |
+| **Course** |  B.Tech Cse |
+| **Batch** | 2027 |
+
+
 | **Status** | Production-Ready |
 
 ---
@@ -1066,4 +1070,4 @@ Current (Phase 1):                    Scaled (Phase 2):
 
 ---
 
-*Document Version: 1.0 | Last Updated: October 2026 | MedCare Development Team*
+*Document Version: 1.0 | Last Updated: October 2026 | Rajat Pundir*
