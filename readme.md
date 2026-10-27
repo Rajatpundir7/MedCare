@@ -1063,8 +1063,6 @@ Current (Phase 1):                    Scaled (Phase 2):
 
 ---
 
-> [!NOTE]
-> This document was reverse-engineered from the actual MedCare codebase. Every architectural decision, feature flow, and implementation detail described here is verified against the real source code. The document is designed to serve as both a **handover guide** for new developers and a **project report** for stakeholders.
 
 ---
 
